@@ -16,21 +16,12 @@ assets:
   repository:
     type: blob.asset
     data:
-      url: "https://github.com/NebraLtd/helium-pisces"
+      url: "https://github.com/Farukest/pisces-wireguard-balena"
   logo:
     type: blob.asset
     data:
       url: >-
         https://cdn.shopify.com/s/files/1/0071/2281/3001/files/Nebra-Icon-Blue_bb758eaa-b10d-4ea6-a55e-babd69135b69.png?v=1620938774
-  repository:
-    type: blob.asset
-    data:
-      url: 'https://github.com/klutchell/balena-wireguard'
-  logo:
-    type: blob.asset
-    data:
-      url: >-
-        https://raw.githubusercontent.com/klutchell/balena-wireguard/main/logo.png
 data:
   applicationEnvironmentVariables:
     - FREQ: "N/A (Non Nebra Miner)"
