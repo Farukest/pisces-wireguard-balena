@@ -6,7 +6,7 @@
 
 You can one-click-deploy this project to balena using the button below:
 
-[![Deploy with balena](https://balena.io/deploy.svg)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/klutchell/balena-wireguard)
+[![Deploy with balena](https://balena.io/deploy.svg)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/Farukest/pisces-wireguard-balena)
 
 ## Manual Deployment
 
